@@ -1,0 +1,25 @@
+.Sub-Tabs-Container{
+    width: 80%;
+    height: 50px;
+    /* position: absolute; */
+    margin-top: 40px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+   
+    
+}.Sub-Tabs-Container .Sub-Tab{
+    background: #333;
+    width: 28%;
+    height: 70px;
+    color: blanchedalmond;
+    font-weight: bold;
+    text-align: center;
+    line-height: 70px;
+    border-radius: .211rem;
+}.Container{
+    /* position: absolute; */
+    margin-top: 100px;
+}
